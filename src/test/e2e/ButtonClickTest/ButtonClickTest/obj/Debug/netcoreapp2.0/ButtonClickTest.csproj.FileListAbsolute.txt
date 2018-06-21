@@ -1,0 +1,11 @@
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\bin\Debug\netcoreapp2.0\ButtonClickTest.deps.json
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\bin\Debug\netcoreapp2.0\ButtonClickTest.runtimeconfig.json
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\bin\Debug\netcoreapp2.0\ButtonClickTest.runtimeconfig.dev.json
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\bin\Debug\netcoreapp2.0\ButtonClickTest.dll
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\obj\Debug\netcoreapp2.0\ButtonClickTest.csproj.CoreCompileInputs.cache
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\obj\Debug\netcoreapp2.0\ButtonClickTest.AssemblyInfoInputs.cache
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\obj\Debug\netcoreapp2.0\ButtonClickTest.AssemblyInfo.cs
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\bin\Debug\netcoreapp2.0\ButtonClickTest.pdb
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\obj\Debug\netcoreapp2.0\ButtonClickTest.dll
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\obj\Debug\netcoreapp2.0\ButtonClickTest.pdb
+C:\Users\cswit\Documents\GitHub\ECSD-Test\src\test\e2e\ButtonClickTest\ButtonClickTest\obj\Debug\netcoreapp2.0\ButtonClickTest.csprojAssemblyReference.cache
